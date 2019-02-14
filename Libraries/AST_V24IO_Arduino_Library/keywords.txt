@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+V24I1	LITERAL1
+V24I2	LITERAL1
+V24I3	LITERAL1
+V24I4	LITERAL1
+V24O1	LITERAL1
+V24O2	LITERAL1
+V24O3	LITERAL1
+V24O4	LITERAL1
+V24Outputs	LITERAL1
+V24Inputs	LITERAL1
