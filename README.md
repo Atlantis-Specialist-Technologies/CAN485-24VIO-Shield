@@ -16,7 +16,7 @@ Repository for the 24VIO Shield
 
 ## Documentation
 
-* **/Hookup Guide** - [Hookup guide](https://cdn.sparkfun.com) for the Shield. This contains everything needed to get up and running.
+* **Hookup Guide** - [Hookup guide](https://cdn.sparkfun.com) for the Shield. This contains everything needed to get up and running.
 
 ## Licensing
 
